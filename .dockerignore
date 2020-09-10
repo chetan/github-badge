@@ -1,0 +1,6 @@
+Dockerfile
+/app/config/googleappengine.py
+/app/config/development.py
+*.bak
+*.sample.*
+*.pyc
